@@ -39,39 +39,35 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=rafayraza-nextgen&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false"
-  alt="rafayraza-nextgen" 
-/></p>
+<p>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rafayraza-nextgen&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafayraza-nextgen&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false" alt="rafayraza-nextgen" />
+  </picture>
+</p>
 
-<p>&nbsp;<img align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=rafayraza-nextgen&show_icons=true&locale=en&theme=default&hide_border=false"
-  alt="rafayraza-nextgen" 
-/></p>
+<p>&nbsp;
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=rafayraza-nextgen&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayraza-nextgen&show_icons=true&locale=en&theme=default&hide_border=false" alt="rafayraza-nextgen" />
+  </picture>
+</p>
 
-<p><img align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rafayraza-nextgen&theme=default&hide_border=false" 
-  alt="rafayraza-nextgen" 
-/></p>
-
-<!-- Dark theme versions (hidden, for theme switching via CSS) -->
-<p style="display: none;"><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=rafayraza-nextgen&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff"
-  alt="rafayraza-nextgen" 
-  class="dark-theme-stats"
-/></p>
-
-<p style="display: none;">&nbsp;<img align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=rafayraza-nextgen&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff"
-  alt="rafayraza-nextgen" 
-  class="dark-theme-stats"
-/></p>
-
-<p style="display: none;"><img align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rafayraza-nextgen&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" 
-  alt="rafayraza-nextgen" 
-  class="dark-theme-stats"
-/></p>
+<p>
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafayraza-nextgen&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafayraza-nextgen&theme=default&hide_border=false" alt="rafayraza-nextgen" />
+  </picture>
+</p>
 
 ###
 
