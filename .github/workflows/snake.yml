@@ -1,11 +1,12 @@
 name: Generate Snake Animation
-permissions:
-  contents: write
 
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs every day
   workflow_dispatch:     # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write
 
 jobs:
   generate:
