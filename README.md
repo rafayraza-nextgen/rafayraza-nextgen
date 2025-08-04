@@ -69,8 +69,11 @@
   </picture>
 </p>
 
-###
-![snake gif](https://github.com/rafayraza-nextgen/rafayraza-nextgen/blob/output/github-contribution-grid-snake.svg)
-###
+---
+
+### 🐍 GitHub Contribution Snake
+
+![snake animation](https://github.com/rafayraza-nextgen/rafayraza-nextgen/blob/output/github-contribution-grid-snake.svg)
+
 
 <br clear="both">
