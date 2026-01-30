@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafay Raza</h1>
-<h3 align="center">Software development student specializing in OOP and system programming</h3>
+<h3 align="center">Artificial Intelligence student specializing in OOP and system programming</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafayraza-nextgen&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    🏆 View GitHub Profile Trophy
-  </a>
-</p>
 
 ---
 
@@ -61,7 +53,18 @@
 
 ---
 
+<h2 align="center">📊 GitHub Statistics</h2>
 
+<!-- Profile Views Counter (Always works) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafayraza-nextgen&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<!-- GitHub Stats using shields.io (More reliable) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rafayraza-nextgen?style=for-the-badge&logo=github&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rafayraza-nextgen?style=for-the-badge&logo=github&color=yellow" alt="Total Stars" />
+</p>
 
 <!-- Activity Graph -->
 <p align="center">
