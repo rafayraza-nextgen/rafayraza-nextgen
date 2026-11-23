@@ -13,7 +13,7 @@
   <a href="https://rafayraza-nextgen.github.io/">rafayraza-nextgen.github.io</a>
 </p>
 <p align="center">
-  📫 Contact: <a href="mailto:rafayraza500@gmail.com">Email me</a>
+  📫 Contact: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anonymous188204497@gmail.com">Email me</a>
 </p>
 
 ---
