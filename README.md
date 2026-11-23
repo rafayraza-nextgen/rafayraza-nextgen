@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rafay Raza</h1>
-<h3 align="center">AI student | Python, C++ and Java | Future AI Engineer</h3>
+<h3 align="center">AI Student | Python and Machine Learning | Future AI Engineer</h3>
 
 ---
 
-<p align="center">🔭 I'm working on <strong>Python projects and data structure implementations</strong></p>
-<p align="center">🌱 I'm learning <strong>Python libraries, PyTorch and machine learning</strong></p>
-<p align="center">👯 I want to collaborate on <strong>object-oriented design projects</strong></p>
-<p align="center">🤝 I need help with <strong>Django and Flask</strong></p>
-<p align="center">💬 Ask me about <strong>Java OOP, C++ programming and data structures</strong></p>
+<p align="center">🔭 I'm working on <strong>Python and machine learning projects</strong></p>
+<p align="center">🌱 I'm learning <strong>deep learning with PyTorch</strong></p>
+<p align="center">👯 I want to collaborate on <strong>AI and machine learning projects</strong></p>
+<p align="center">🤝 I need help with <strong>deploying ML models with Flask, Django or FastAPI</strong></p>
+<p align="center">💬 Ask me about <strong>Python, machine learning, C++ and Java OOP</strong></p>
 <p align="center">
   🌐 Portfolio:
   <a href="https://rafayraza-nextgen.github.io/">rafayraza-nextgen.github.io</a>
@@ -40,11 +40,15 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
 </p>
 
 ---
